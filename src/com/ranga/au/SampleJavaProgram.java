@@ -10,7 +10,6 @@ public class SampleJavaProgram {
 		System.out.println("Sample test 1");
 		System.out.println("Sample Test arg1: "+arg1);
 		System.out.println("Sample Test arg2: "+arg2);	
-		System.out.println("Santhosh Ravikanti");	
 
 	}
 
